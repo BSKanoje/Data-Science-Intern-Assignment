@@ -1,4 +1,4 @@
-# **eCommerce Data Science Assignment**
+# **Data Science Assignment: eCommerce Transactions Dataset**
 
 ## **Overview**
 This repository contains the deliverables for the eCommerce Data Science Assignment. The project involves analyzing transactional data, building a lookalike model, and performing customer segmentation to derive actionable insights and improve business strategies.
