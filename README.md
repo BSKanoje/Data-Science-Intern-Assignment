@@ -34,19 +34,11 @@ This repository contains the deliverables for the eCommerce Data Science Assignm
 1. Perform EDA on the datasets to understand data distributions, correlations, and trends.  
 2. Derive at least **5 business insights** from the EDA.
 
-#### **Deliverables**
-- `FirstName_LastName_EDA.ipynb`: Jupyter Notebook with EDA code.  
-- `FirstName_LastName_EDA.pdf`: PDF report with business insights.
-
 ---
 
 ### **Task 2: Lookalike Model**
 1. Build a Lookalike Model to recommend **3 similar customers** based on profile and transaction history.  
 2. Assign similarity scores to each recommendation.
-
-#### **Deliverables**
-- `FirstName_LastName_Lookalike.ipynb`: Jupyter Notebook explaining the model development.  
-- `FirstName_LastName_Lookalike.csv`: CSV file with mappings of `CustomerID` and their top 3 lookalikes with similarity scores.
 
 ---
 
@@ -54,7 +46,3 @@ This repository contains the deliverables for the eCommerce Data Science Assignm
 1. Perform customer segmentation using clustering techniques.  
 2. Use customer profile and transaction data.  
 3. Calculate clustering metrics (e.g., DB Index) and visualize the clusters.
-
-#### **Deliverables**
-- `FirstName_LastName_Clustering.ipynb`: Jupyter Notebook with clustering code.  
-- `FirstName_LastName_Clustering.pdf`: Report with clustering results, DB Index, and visualizations.
